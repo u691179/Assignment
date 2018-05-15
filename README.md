@@ -11,3 +11,5 @@ Assignment 4 (https://github.com/u691179/Assignment/blob/master/assignment4%20(1
 Week 2=(https://github.com/u691179/Assignment/blob/master/week2.ipynb)
 
 Graded Assignment 5 (R) (https://github.com/u691179/Assignment/blob/master/Graded_assignment1%20(3).ipynb)
+
+Graded Assignment 6 (R) (https://github.com/u691179/Assignment/blob/master/Graded_assignment_2%20V2%20(1).ipynb)
