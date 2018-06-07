@@ -16,4 +16,4 @@ Graded Assignment 6 (R) (https://github.com/u691179/Assignment/blob/master/Grade
 ----------------------------------------------------------------------------------------
 
 Final Assignment Python (https://github.com/u691179/Assignment/blob/master/exam_june_7_2018%20(1)%20(1).ipynb) 
-Final Assignment R (
+Final Assignment R (https://github.com/u691179/Assignment/blob/master/Exam_student%20(1).ipynb)
